@@ -1,0 +1,6 @@
+# Git ignore for Godot
+
+/.godot/
+.import/
+*.translation
+*.tmp
